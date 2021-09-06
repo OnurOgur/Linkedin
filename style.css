@@ -1,0 +1,21 @@
+.navbar ul li {
+    font-size: 25px;
+    padding: 0 10px;
+    text-align: center;
+}
+
+#navv {
+    background-color: white;
+}
+
+#header ul li:hover {
+    background-color: rgb(226, 226, 226);
+}
+
+#header .col-4 .card {
+    border-radius: 10px;
+}
+
+#header p:hover {
+    background-color: rgb(226, 226, 226);
+}
